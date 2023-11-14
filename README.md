@@ -11,7 +11,7 @@ Start websocket server with:
 npm run start
 #runs on port 3000
 #or
-$env:PORT=8888
+$env:PORT=8888 npm run start
 #will set the port to 8888
 ```
 
