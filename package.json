@@ -1,0 +1,23 @@
+{
+  "name": "socket.io.example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/d1sxcat/socket.io.example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/d1sxcat/socket.io.example/issues"
+  },
+  "homepage": "https://github.com/d1sxcat/socket.io.example#readme",
+  "dependencies": {
+    "socket.io": "^4.7.2"
+  }
+}
